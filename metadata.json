@@ -1,0 +1,5 @@
+{
+  "name": "Werger - Kurdish Translator",
+  "description": "A fast and beautiful app to translate between Arabic, Kurdish (Badini), and English using the Gemini API.",
+  "requestFramePermissions": []
+}
